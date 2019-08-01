@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "699317574264",
+    "firebase_url": "https://stopandboy-e2acb.firebaseio.com",
+    "project_id": "stopandboy-e2acb",
+    "storage_bucket": "stopandboy-e2acb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699317574264:android:2b0dde95dace9e36",
+        "android_client_info": {
+          "package_name": "com.playandout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699317574264-8oec5n4fnkth45k1h9eqt9aku1v3flnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfcRG1huYEQBU051Kr8fvpSILjXbAW7E4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
